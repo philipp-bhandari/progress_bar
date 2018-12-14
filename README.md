@@ -1,2 +1,2 @@
-"# progress_bar" 
+# progress_bar
 Линия прогресса для циклов.
